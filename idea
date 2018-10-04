@@ -1,0 +1,7 @@
+Non-uniformly randomize value of pixels (starting with black, white, color, other pattern, prior bitmap)
+
+If new pixel is closer to the target pixel than previous pixel, keep it. Otherwise, randomize it again.
+
+% likeness option
+
+animate into gifs

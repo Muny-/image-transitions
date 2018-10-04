@@ -1,0 +1,3 @@
+Single threaded: 512 frames took 718.85 seconds
+Eight  threaded: 512 frames took 439.66 seconds
+Eight  threaded: 512 frames took 432.12 seconds
